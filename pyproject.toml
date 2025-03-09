@@ -8,6 +8,8 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "streamlit (>=1.43.1,<2.0.0)",
+    "py-mistral-helper (>=0.1.0,<0.2.0)"
 ]
 
 
