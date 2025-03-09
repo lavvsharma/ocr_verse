@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+build/
+*.egg-info/
+ocr_verse_venv
+ocr_verse/.streamlit
+poetry.lock
