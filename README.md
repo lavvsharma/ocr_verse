@@ -5,6 +5,8 @@ document URLs, file uploads, and image URLs. The extracted text is displayed in 
 
 Access the application [here](https://ocrverse.streamlit.app/).
 
+![Demo GIF](https://github.com/lavvsharma/ocr_verse/blob/main/OCR%20Verse.gif)
+
 ## Installation
 
 1. Checkout the GitHub repo.
