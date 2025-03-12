@@ -1,15 +1,18 @@
 [project]
 name = "ocr-verse"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = [
-    {name = "Lav Sharma",email = "lavsharma2016@gmail.com"}
+    { name = "Lav Sharma", email = "lavsharma2016@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "streamlit (>=1.43.1,<2.0.0)",
-    "py-mistral-helper (>=0.1.0,<0.2.0)"
+    "py-mistral-helper (>=0.1.0,<0.2.0)",
+    "python-docx (>=1.1.2,<2.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)",
+    "xlsxwriter (>=3.2.2,<4.0.0)"
 ]
 
 
